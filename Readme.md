@@ -74,6 +74,6 @@ AnnalynsInfiltration.canFreePrisoner(knightIsAwake, archerIsAwake, prisonerIsAwa
 - [Annalyn's Infiltration on Exercism](https://exercism.org/tracks/java/exercises/annalyns-infiltration)
 
 ## Deliverables
-
-- GitHub repository (link).
 - Screenshot of the VS Code "Testing" section showing the test results.
+
+![VS Code Testing results](docs/assets/tests.jpg)
